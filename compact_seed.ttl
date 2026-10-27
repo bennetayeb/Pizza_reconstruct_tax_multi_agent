@@ -1,0 +1,63 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix pdoc: <http://www.co-ode.org/ontologies/pizza> .
+@prefix pv: <http://www.co-ode.org/ontologies/pizza/> .
+@prefix pz: <http://www.co-ode.org/ontologies/pizza/pizza.owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+dc:description a owl:AnnotationProperty .
+
+dc:title a owl:AnnotationProperty .
+
+dcterms:contributor a owl:AnnotationProperty .
+
+dcterms:license a owl:AnnotationProperty .
+
+dcterms:provenance a owl:AnnotationProperty .
+
+pdoc: a owl:Ontology ;
+    owl:versionIRI pv:2.0.0 .
+
+pz:DomainConcept a owl:Class .
+
+pz:Food a owl:Class .
+
+pz:Spiciness a owl:Class .
+
+pz:ValuePartition a owl:Class .
+
+pz:hasBase a owl:FunctionalProperty,
+        owl:InverseFunctionalProperty,
+        owl:ObjectProperty ;
+    owl:inverseOf pz:isBaseOf .
+
+pz:hasCountryOfOrigin a owl:ObjectProperty .
+
+pz:hasIngredient a owl:ObjectProperty,
+        owl:TransitiveProperty ;
+    owl:inverseOf pz:isIngredientOf .
+
+pz:hasSpiciness a owl:FunctionalProperty,
+        owl:ObjectProperty .
+
+pz:hasTopping a owl:InverseFunctionalProperty,
+        owl:ObjectProperty ;
+    owl:inverseOf pz:isToppingOf .
+
+skos:altLabel a owl:AnnotationProperty .
+
+skos:definition a owl:AnnotationProperty .
+
+skos:prefLabel a owl:AnnotationProperty .
+
+pz:isBaseOf a owl:FunctionalProperty,
+        owl:InverseFunctionalProperty,
+        owl:ObjectProperty .
+
+pz:isIngredientOf a owl:ObjectProperty,
+        owl:TransitiveProperty .
+
+pz:isToppingOf a owl:FunctionalProperty,
+        owl:ObjectProperty .
+
