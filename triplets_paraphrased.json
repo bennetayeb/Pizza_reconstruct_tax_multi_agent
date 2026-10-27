@@ -1,0 +1,696 @@
+[
+  {
+    "subject": "American",
+    "predicate": "is a",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00001",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "AmericanHot",
+    "predicate": "is a type of",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00002",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "AnchoviesTopping",
+    "predicate": "is a kind of",
+    "object": "FishTopping",
+    "id": "ontoaxiom_00003",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "artichoke ingredient",
+    "predicate": "inherits from",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00004",
+    "subject_original": "ArtichokeTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "asparagus ingredient",
+    "predicate": "belongs to category",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00005",
+    "subject_original": "AsparagusTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Cajun",
+    "predicate": "is categorized as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00006",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "CajunSpiceTopping",
+    "predicate": "is classified as",
+    "object": "HerbSpiceTopping",
+    "id": "ontoaxiom_00007",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "CaperTopping",
+    "predicate": "is a",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00008",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Capricciosa",
+    "predicate": "is a type of",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00009",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Caprina",
+    "predicate": "is a kind of",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00010",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "CheeseTopping",
+    "predicate": "inherits from",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00011",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "chicken ingredient",
+    "predicate": "belongs to category",
+    "object": "MeatTopping",
+    "id": "ontoaxiom_00012",
+    "subject_original": "ChickenTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "thick crust base",
+    "predicate": "is categorized as",
+    "object": "pizza crust",
+    "id": "ontoaxiom_00013",
+    "subject_original": "DeepPanBase",
+    "predicate_original": "subClassOf",
+    "object_original": "PizzaBase",
+    "_paraphrased": true
+  },
+  {
+    "subject": "florentine pizza",
+    "predicate": "is classified as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00014",
+    "subject_original": "Fiorentina",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "seafood topping",
+    "predicate": "is a",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00015",
+    "subject_original": "FishTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Food",
+    "predicate": "is a type of",
+    "object": "domain entity",
+    "id": "ontoaxiom_00016",
+    "predicate_original": "subClassOf",
+    "object_original": "DomainConcept",
+    "_paraphrased": true
+  },
+  {
+    "subject": "FourCheesesTopping",
+    "predicate": "is a kind of",
+    "object": "CheeseTopping",
+    "id": "ontoaxiom_00017",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "four seasons pizza",
+    "predicate": "inherits from",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00018",
+    "subject_original": "FourSeasons",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "FruitTopping",
+    "predicate": "belongs to category",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00019",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "FruttiDiMare",
+    "predicate": "is categorized as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00020",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "GarlicTopping",
+    "predicate": "is classified as",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00021",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Giardiniera",
+    "predicate": "is a",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00022",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "GoatsCheeseTopping",
+    "predicate": "is a type of",
+    "object": "CheeseTopping",
+    "id": "ontoaxiom_00023",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "GorgonzolaTopping",
+    "predicate": "is a kind of",
+    "object": "CheeseTopping",
+    "id": "ontoaxiom_00024",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "GreenPepperTopping",
+    "predicate": "inherits from",
+    "object": "PepperTopping",
+    "id": "ontoaxiom_00025",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "HamTopping",
+    "predicate": "belongs to category",
+    "object": "MeatTopping",
+    "id": "ontoaxiom_00026",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "herb topping",
+    "predicate": "is categorized as",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00027",
+    "subject_original": "HerbSpiceTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "spicy",
+    "predicate": "is classified as",
+    "object": "Spiciness",
+    "id": "ontoaxiom_00028",
+    "subject_original": "Hot",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "hot green pepper",
+    "predicate": "is a",
+    "object": "GreenPepperTopping",
+    "id": "ontoaxiom_00029",
+    "subject_original": "HotGreenPepperTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "spiced beef topping",
+    "predicate": "is a type of",
+    "object": "MeatTopping",
+    "id": "ontoaxiom_00030",
+    "subject_original": "HotSpicedBeefTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "JalapenoPepperTopping",
+    "predicate": "is a kind of",
+    "object": "PepperTopping",
+    "id": "ontoaxiom_00031",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "the queen pizza",
+    "predicate": "inherits from",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00032",
+    "subject_original": "LaReine",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "LeekTopping",
+    "predicate": "belongs to category",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00033",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Margherita",
+    "predicate": "is categorized as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00034",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "meat ingredient",
+    "predicate": "is classified as",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00035",
+    "subject_original": "MeatTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "moderate",
+    "predicate": "is a",
+    "object": "Spiciness",
+    "id": "ontoaxiom_00036",
+    "subject_original": "Medium",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Mild",
+    "predicate": "is a type of",
+    "object": "Spiciness",
+    "id": "ontoaxiom_00037",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "MixedSeafoodTopping",
+    "predicate": "is a kind of",
+    "object": "FishTopping",
+    "id": "ontoaxiom_00038",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "MozzarellaTopping",
+    "predicate": "inherits from",
+    "object": "CheeseTopping",
+    "id": "ontoaxiom_00039",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Mushroom",
+    "predicate": "belongs to category",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00040",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "MushroomTopping",
+    "predicate": "is categorized as",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00041",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "specific pizza",
+    "predicate": "is classified as",
+    "object": "Pizza",
+    "id": "ontoaxiom_00042",
+    "subject_original": "NamedPizza",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Napoletana",
+    "predicate": "is a",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00043",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "NutTopping",
+    "predicate": "is a type of",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00044",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "olive ingredient",
+    "predicate": "is a kind of",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00045",
+    "subject_original": "OliveTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "onion ingredient",
+    "predicate": "inherits from",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00046",
+    "subject_original": "OnionTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "ParmaHamTopping",
+    "predicate": "belongs to category",
+    "object": "HamTopping",
+    "id": "ontoaxiom_00047",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Parmense",
+    "predicate": "is categorized as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00048",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "ParmesanTopping",
+    "predicate": "is classified as",
+    "object": "CheeseTopping",
+    "id": "ontoaxiom_00049",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PeperonataTopping",
+    "predicate": "is a",
+    "object": "PepperTopping",
+    "id": "ontoaxiom_00050",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PeperoniSausageTopping",
+    "predicate": "is a type of",
+    "object": "MeatTopping",
+    "id": "ontoaxiom_00051",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PepperTopping",
+    "predicate": "is a kind of",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00052",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PetitPoisTopping",
+    "predicate": "inherits from",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00053",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PineKernels",
+    "predicate": "belongs to category",
+    "object": "NutTopping",
+    "id": "ontoaxiom_00054",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "pizza dish",
+    "predicate": "is categorized as",
+    "object": "food item",
+    "id": "ontoaxiom_00055",
+    "subject_original": "Pizza",
+    "predicate_original": "subClassOf",
+    "object_original": "Food",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PizzaBase",
+    "predicate": "is classified as",
+    "object": "food item",
+    "id": "ontoaxiom_00056",
+    "predicate_original": "subClassOf",
+    "object_original": "Food",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PizzaTopping",
+    "predicate": "is a",
+    "object": "food item",
+    "id": "ontoaxiom_00057",
+    "predicate_original": "subClassOf",
+    "object_original": "Food",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PolloAdAstra",
+    "predicate": "is a type of",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00058",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PrawnsTopping",
+    "predicate": "is a kind of",
+    "object": "FishTopping",
+    "id": "ontoaxiom_00059",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "PrinceCarlo",
+    "predicate": "inherits from",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00060",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "QuattroFormaggi",
+    "predicate": "belongs to category",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00061",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "RedOnionTopping",
+    "predicate": "is categorized as",
+    "object": "onion ingredient",
+    "id": "ontoaxiom_00062",
+    "predicate_original": "subClassOf",
+    "object_original": "OnionTopping",
+    "_paraphrased": true
+  },
+  {
+    "subject": "RocketTopping",
+    "predicate": "is classified as",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00063",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Rosa",
+    "predicate": "is a",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00064",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "RosemaryTopping",
+    "predicate": "is a type of",
+    "object": "HerbSpiceTopping",
+    "id": "ontoaxiom_00065",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "SauceTopping",
+    "predicate": "is a kind of",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00066",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Siciliana",
+    "predicate": "inherits from",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00067",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "SlicedTomatoTopping",
+    "predicate": "belongs to category",
+    "object": "TomatoTopping",
+    "id": "ontoaxiom_00068",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "sloppy giuseppe pizza",
+    "predicate": "is categorized as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00069",
+    "subject_original": "SloppyGiuseppe",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "Soho",
+    "predicate": "is classified as",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00070",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  },
+  {
+    "subject": "heat level",
+    "predicate": "is a",
+    "object": "ValuePartition",
+    "id": "ontoaxiom_00071",
+    "subject_original": "Spiciness",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "spinach ingredient",
+    "predicate": "is a type of",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00072",
+    "subject_original": "SpinachTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "SultanaTopping",
+    "predicate": "is a kind of",
+    "object": "fruit ingredient",
+    "id": "ontoaxiom_00073",
+    "predicate_original": "subClassOf",
+    "object_original": "FruitTopping",
+    "_paraphrased": true
+  },
+  {
+    "subject": "SundriedTomatoTopping",
+    "predicate": "inherits from",
+    "object": "TomatoTopping",
+    "id": "ontoaxiom_00074",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "SweetPepperTopping",
+    "predicate": "belongs to category",
+    "object": "PepperTopping",
+    "id": "ontoaxiom_00075",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "ThinAndCrispyBase",
+    "predicate": "is categorized as",
+    "object": "pizza crust",
+    "id": "ontoaxiom_00076",
+    "predicate_original": "subClassOf",
+    "object_original": "PizzaBase",
+    "_paraphrased": true
+  },
+  {
+    "subject": "TobascoPepperSauce",
+    "predicate": "is classified as",
+    "object": "SauceTopping",
+    "id": "ontoaxiom_00077",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "tomato ingredient",
+    "predicate": "is a",
+    "object": "VegetableTopping",
+    "id": "ontoaxiom_00078",
+    "subject_original": "TomatoTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "veggie topping",
+    "predicate": "is a type of",
+    "object": "PizzaTopping",
+    "id": "ontoaxiom_00079",
+    "subject_original": "VegetableTopping",
+    "predicate_original": "subClassOf",
+    "_paraphrased": true
+  },
+  {
+    "subject": "venetian pizza",
+    "predicate": "is a kind of",
+    "object": "specific pizza",
+    "id": "ontoaxiom_00080",
+    "subject_original": "Veneziana",
+    "predicate_original": "subClassOf",
+    "object_original": "NamedPizza",
+    "_paraphrased": true
+  }
+]
